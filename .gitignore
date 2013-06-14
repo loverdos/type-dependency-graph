@@ -1,2 +1,5 @@
-packages
-tools
+packages/
+tools/
+*.dot
+*.svg
+*.csv
